@@ -1,0 +1,2 @@
+# journal
+type type typerson
